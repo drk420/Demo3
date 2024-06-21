@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T20:01:09 IST" name="Suite" finished-at="2024-06-20T20:01:56 IST" duration-ms="46374">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T20:01:09 IST" name="Test" finished-at="2024-06-20T20:01:56 IST" duration-ms="46374">
+      <class name="testlayer.Flipkarttest">
+        <test-method is-config="true" signature="start()[pri:0, instance:testlayer.Flipkarttest@293a5bf6]" started-at="2024-06-20T20:01:09 IST" name="start" finished-at="2024-06-20T20:01:09 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testlayer.Flipkarttest@293a5bf6]" started-at="2024-06-20T20:01:09 IST" name="setup" finished-at="2024-06-20T20:01:22 IST" duration-ms="12687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestAll()[pri:0, instance:testlayer.Flipkarttest@293a5bf6]" started-at="2024-06-20T20:01:22 IST" name="TestAll" finished-at="2024-06-20T20:01:55 IST" duration-ms="33355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAll -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testlayer.Flipkarttest@293a5bf6]" started-at="2024-06-20T20:01:55 IST" name="teardown" finished-at="2024-06-20T20:01:56 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testlayer.Flipkarttest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
